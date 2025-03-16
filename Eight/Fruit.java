@@ -1,3 +1,4 @@
+package Eight;
 public class Fruit extends Product {
     public Fruit(String name, double price, int quantity) {
         super(name, price, quantity);

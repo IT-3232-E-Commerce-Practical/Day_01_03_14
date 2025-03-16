@@ -1,3 +1,4 @@
+package Seven;
 public class Ebook extends Book {
     private int price;
    
